@@ -1,6 +1,6 @@
 # Hi, I'm Kevin! 👋
 
-I am a Computer Science student from Wrocław (Poland), specializing in Cloud Application Programming. I am currently focusing on building a solid foundation in Python and T-SQL.
+I am a Computer Science student in Wrocław (Poland), specializing in Cloud Application Programming. I am currently focusing on building a solid foundation in Python and T-SQL.
 
 👯 I'm highly motivated to start my career in IT and I'm actively looking for my first internship or junior position. 👯
 
