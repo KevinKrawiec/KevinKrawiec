@@ -17,6 +17,3 @@ I am a Computer Science student in Wrocław (Poland), specializing in Cloud Appl
 ### 📫 Contact 📫
 * **LinkedIn:** [linkedin.com/in/kevin-krawiec](https://www.linkedin.com/in/kevin-krawiec)
 * **Email:** krawieckevin03@gmail.com
-
----
-![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=KevinKrawiec&show_icons=true)
