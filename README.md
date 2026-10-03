@@ -1,19 +1,16 @@
-# Hi, I'm Kevin! 👋
+# Hi, I'm Kevin!
 
-I am a Computer Science student in Wrocław (Poland), specializing in Cloud Application Programming. I am currently focusing on building a solid foundation in Python and T-SQL.
+I'm a Computer Science student in Wrocław (Poland), specializing in Cloud Application Programming.
+I'm building a solid foundation in **IT support**: Windows, Active Directory and networking.
+I'm looking for my first internship or junior role in **Help Desk / IT Support** or similar.
 
-👯 I'm highly motivated to start my career in IT and I'm actively looking for my first internship or junior position. 👯
+### Currently learning
+- **CompTIA A+ (Core 1)**: preparing for the exam
+- **Networking**: CCNA 200-301 material, Cisco Packet Tracer labs
+- **Windows Server & Active Directory**: domain controller, OUs, groups, GPO,
+  shared folders, NTFS permissions
+- **Python & T-SQL**: basics, ongoing practice
 
-### 🔭 About Me 🔭
-* **Education:** CS Student in Wrocław (Cloud Application Programming specialization)
-* **Current focus:** Mastering Python based on "Python Crash Course, 3rd Edition" by Eric Matthes
-* **Tech interests:** Python, T-SQL, and Cloud architecture
-
-### 🌱 Tech Stack 🌱
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-### 📫 Contact 📫
+### Contact
 * **LinkedIn:** [linkedin.com/in/kevin-krawiec](https://www.linkedin.com/in/kevin-krawiec)
 * **Email:** krawieckevin03@gmail.com
